@@ -11,5 +11,5 @@
     transform: scale(1);
   }
 body{
-    background-image: url('background.jpg');
+    background-image: url('/background.jpg');
 }
